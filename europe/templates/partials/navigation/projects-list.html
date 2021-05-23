@@ -1,0 +1,13 @@
+get "/index" do
+  	if $children do
+	<nav>
+	  <ul class="projects">
+	    foreach $children do
+	      <li>
+	          <a href="@root_path/@url">@index</a>
+	      </li>
+	    endforeach
+	  </ul>
+	</nav>
+	endif
+end

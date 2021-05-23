@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>Day 4</title>
+    <link rel="alternate" type="application/atom+xml" href="./?/feed/">
+    <link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+
+    <!--[if IE]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+    <!-- <script type="text/javascript" src="./public/docs/js/modernizr.js"></script>
+    <script type="text/javascript" src="./public/docs/js/dynamicpage.js"></script> -->
+
+  </head>
+  <body>
+<div id="container">
+
+<div id="header">
+</div>
+
+<div id="content">
+  <div id="guts">
+
+    <img src="./content/1.index/11.day4/thumb.jpg" class="header" alt="" />
+
+    <!-- Title -->
+      <h1><a href="./">Day 4</a>: Venice, Santorini</h1>
+      <h2>2014.10.18</h2>
+
+    <!-- Posts -->
+      <div id="postjenny">
+      <h3 class="jenny"></h3>
+        @jenny
+      </div>
+      <div id="postdean">
+      <h3 class="dean"></h3>
+        @dean
+      </div>
+
+      <hr>
+
+    <!-- Media -->
+        <div id="gallery-navigation" class="pagination">
+            <p id="project-count">4/14</p>
+            <p id="gallery-count"><a href="#" id="previous-image">&larr;</a>
+            <span>1/1</span> <a href="#" id="next-image">&rarr;</a></p>
+        </div>
+              <div id="media pagination">
+        <div class="image">
+    <img src="./content/1.index/11.day4/04.jpg" alt="Test Image 4" width="560" height="430">
+          <em>Stacey's Test Image 4</em>
+    
+  </div>
+  <div class="image">
+    <img src="./content/1.index/11.day4/03.jpg" alt="Test Image 3" width="560" height="450">
+          <em>Stacey's Test Image 3</em>
+    
+  </div>
+  <div class="image">
+    <img src="./content/1.index/11.day4/02.jpg" alt="Test Image 2" width="560" height="430">
+          <em>Stacey's Test Image 2</em>
+    
+  </div>
+  <div class="image">
+    <img src="./content/1.index/11.day4/01.jpg" alt="Test Image 1" width="560" height="430">
+          <em>Stacey's Test Image 1</em>
+    
+  </div>
+
+  
+  
+  
+  
+  
+  
+  
+
+</div>
+
+
+    <!-- Project Nav -->
+      <div id="project-navigation" class="pagination">
+                    <span class="left">&larr; <a href="./?/index/day5/">Day 5</a></span>
+   <span class="right"><a href="./?/index/day3/">Day 3</a> &rarr;</span>
+
+        
+      </div>
+
+      <hr>
+
+
+    </div>
+  </div>
+
+    <!-- Footer -->
+      <footer>
+        <p id="footer">&copy; Copyright <a href="./">Europe 2014</a> <a class="atom-rss" href="./?/feed/">RSS</a></p>
+      </footer>
+
+  </div>
+    
+    <script type="text/javascript" charset="utf-8">
+      document.getElementsByTagName('body')[0].className += ' js-enabled';
+    </script>
+    <script src="./public/docs/js/jquery-1.3.2.js" type="text/javascript" charset="utf-8"></script>
+    <script src="./public/docs/js/gallery.js" type="text/javascript" charset="utf-8"></script>
+    <script src="./public/docs/js/init-gallery.js" type="text/javascript" charset="utf-8"></script>
+
+  </body>
+</html>
+<!-- Stacey(2.3.0): b920c06d125f771404b33c0d5b4bcd9d -->

@@ -1,0 +1,69 @@
+title: Day 5
+-
+date: October 19, 2014
+-
+location: Santorini
+-
+titlecolor: #fff
+-
+jenny: 
+#### Santorini
+
+<a href="@path_jenny/Santorini01.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini01.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini02.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini02.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini03.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini03.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini04.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini04.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini05.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini05.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini06.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini06.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini07.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini07.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini08.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini08.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini09.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini09.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini10.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini10.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini11.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini11.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini12.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini12.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini13.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini13.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini14.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini14.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini15.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini15.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini16.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini16.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini17.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini17.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini18.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini18.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini19.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini19.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini20.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini20.JPG" alt=""></a>
+
+-
+dean:
+#### Santorini
+
+<a href="@path_dean/Santorini01.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Santorini01.JPG" alt=""></a>
+
+<a href="@path_dean/Santorini02.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Santorini02.JPG" alt=""></a>
+
+<a href="@path_dean/Santorini03.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Santorini03.JPG" alt=""></a>
+
+<a href="@path_dean/Santorini04.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Santorini04.JPG" alt=""></a>
+
+<a href="@path_dean/Santorini05.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Santorini05.JPG" alt=""></a>
+
+<a href="@path_dean/Santorini06.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Santorini06.JPG" alt=""></a>
+
+<a href="@path_dean/Santorini07.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Santorini07.JPG" alt=""></a>
+

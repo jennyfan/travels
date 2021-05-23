@@ -1,0 +1,40 @@
+title: Day 13
+-
+date: October 27, 2014
+-
+location: Paris &amp; Iceland
+-
+titlecolor: #fff
+-
+jenny: 
+#### Iceland
+
+<a href="@path_jenny/Iceland01.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Iceland01.JPG" alt=""></a>
+
+<a href="@path_jenny/Iceland02.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Iceland02.JPG" alt=""></a>
+
+<a href="@path_jenny/Iceland03.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Iceland03.JPG" alt=""></a>
+
+<a href="@path_jenny/Iceland04.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Iceland04.JPG" alt=""></a>
+
+<a href="@path_jenny/Iceland05.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Iceland05.JPG" alt=""></a>
+
+<a href="@path_jenny/Iceland06.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Iceland06.JPG" alt=""></a>
+
+-
+dean:
+#### Iceland
+
+<a href="@path_dean/Iceland01.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Iceland01.JPG" alt=""></a>
+
+<a href="@path_dean/Iceland02.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Iceland02.JPG" alt=""></a>
+
+<a href="@path_dean/Iceland03.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Iceland03.JPG" alt=""></a>
+
+<a href="@path_dean/Iceland04.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Iceland04.JPG" alt=""></a>
+
+<a href="@path_dean/Iceland05.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Iceland05.JPG" alt=""></a>
+
+<a href="@path_dean/Iceland06.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Iceland06.JPG" alt=""></a>
+
+<a href="@path_dean/Iceland07.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Iceland07.JPG" alt=""></a>

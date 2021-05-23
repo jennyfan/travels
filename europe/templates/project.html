@@ -1,0 +1,37 @@
+:header
+
+  <div id="cover" style="background-image:url(@thumb);">
+
+
+    <!-- Title -->
+      <h1 style="color:@titlecolor">@location</h1>
+      <h2 style="color:@titlecolor">@date</h2>
+  </div>
+
+
+    <!-- Posts -->
+      <div id="post">
+        :images
+      </div>
+
+      <hr>
+
+    <!-- Media -->
+        <div id="gallery-navigation" class="pagination">
+            <p id="project-count">@index/@siblings_count</p>
+            <p id="gallery-count"><a href="#" id="previous-image">&larr;</a>
+            <span>1/1</span> <a href="#" id="next-image">&rarr;</a></p>
+        </div>
+        
+      :media
+
+    <!-- Project Nav -->
+      <div id="project-navigation" class="pagination">
+        if $siblings do
+          :next-page :previous-page
+        endif
+      </div>
+
+      <hr>
+
+:footer

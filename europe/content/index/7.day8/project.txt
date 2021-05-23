@@ -1,0 +1,32 @@
+title: Day 8
+-
+date: October 22, 2014
+-
+location: Santorini &amp; Paris
+-
+titlecolor: #fff
+-
+jenny: 
+#### Santorini
+
+<a href="@path_jenny/Santorini01.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini01.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini02.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini02.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini03.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini03.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini04.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini04.JPG" alt=""></a>
+
+-
+dean:
+#### Santorini
+
+<a href="@path_dean/Santorini01.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Santorini01.JPG" alt=""></a>
+
+<a href="@path_dean/Santorini02.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Santorini02.JPG" alt=""></a>
+
+#### Paris
+
+<a href="@path_dean/Paris01.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Paris01.JPG" alt=""></a>
+
+<a href="@path_dean/Paris02.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Paris02.JPG" alt=""></a>

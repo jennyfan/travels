@@ -1,0 +1,46 @@
+title: Day 6
+-
+date: October 20, 2014
+-
+location: Santorini
+-
+titlecolor: #fff
+-
+jenny: 
+#### Santorini
+
+<a href="@path_jenny/Santorini01.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini01.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini02.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini02.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini03.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini03.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini04.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini04.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini05.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini05.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini06.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini06.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini07.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini07.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini08.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini08.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini09.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini09.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini10.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini10.JPG" alt=""></a>
+
+-
+dean:
+#### Santorini
+
+<a href="@path_dean/Santorini01.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Santorini01.JPG" alt=""></a>
+
+<a href="@path_dean/Santorini02.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Santorini02.JPG" alt=""></a>
+
+<a href="@path_dean/Santorini03.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Santorini03.JPG" alt=""></a>
+
+<a href="@path_dean/Santorini04.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Santorini04.JPG" alt=""></a>
+
+<a href="@path_dean/Santorini05.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Santorini05.JPG" alt=""></a>
+
+<a href="@path_dean/Santorini06.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Santorini06.JPG" alt=""></a>

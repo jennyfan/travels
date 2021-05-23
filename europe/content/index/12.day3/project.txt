@@ -1,0 +1,83 @@
+title: Day 3
+-
+date: October 17, 2014
+-
+location: Florence &amp; Venice
+-
+titlecolor: #fff
+-
+jenny: 
+
+#### Florence (AM)
+
+We had heard about long lines at the city's most famous art gallery, but Signoria Apartments was able to help us make a reservation online. (There's a 4 euro fee, but easier to opt out of the auto-adding special exhibition when you try to reserve online.) 
+
+<a href="@path_jenny/Florence02.JPG" data-lightbox="Jenny @location" data-title="Hallway of Uffizi"><img src="@path_jenny/Florence02.JPG" alt=""></a>
+
+We worked our way from top down in the gallery. Some of the rooms were really warm and humid given that it had started sprinkling outside, but it was a mystery to me how they decided which rooms to keep air conditioned and which rooms stayed warm (couldn't have been good for the paintings?). I was still tired and worn out from jetlag and residual food poisoning, so when I sat down for a bit, my eyes drifted to the ceiling of Uffizi, where there were small portraits of famous Italians throughout the time (I was right under Machiavelli). Along the crowning of the ceiling, there was yet another ledge of paintings. It felt like every square inch was covered with some legacy of art and culture, as even the design and architecture of the building itself was priceless.
+
+<a href="@path_jenny/Florence03.JPG" data-lightbox="Jenny @location" data-title="What's with this sign? So anime-esque."><img src="@path_jenny/Florence03.JPG" alt=""></a>
+
+
+Our timing worked out perfectly, because it only ended up raining while we were in Uffizi, and it was sunny by the time we were done. We somehow managed to avoid all rain in Italy, despite forecasts showing 100% chance of showers for our whole time in Italy! (Travel miracle #3.) We swung by Museo de Vecchio since it was right next door, and then rushed past the main Duomo (the round-topped building that is so iconic in Florence photographs), where everybody was hawking either a painting/photograph of Florence or a selfie stick. Speaking of which, there were Asian tourists everywhere and business seemed to be good.
+
+We had to leave for a train to Venice at 1:30, so after some Grom (more gelato...), we made our way to San Lorenzo's leather market, where I was tasked with finding my friend a leather jacket, and my dad a belt and wallet. The shopping in an open market (and haggling) was fun - got the 240 Euro jacket down to 100 Euro, after some final pushing and budging from 120 down to 110 down to 100. The thrill of the sport that runs in my blood...... haggling...
+
+The timing was tight for everything in Italy. We had only 24 hours in each place, and while the cities were small enough to do what we wanted to do, it was pretty close. If we hadn't taken the Metro to the Milan train station, we wouldn't have made it to Florence. If we didn't wrap up the haggling and last minute belt shopping at San Lorenzo in Florence, we wouldn't have time to grab our bags and cab it to the train station. We cut everything close, but we fortunately had time to swing by the Eataly in Florence and grab a full pack of salami, proscuitto, trio of formaggio cheese, and these flatbreads that were like OUTTA CONTROL good. Sauteed onions and cheese on perfect dough, as well as a simple ham and cheese sandwich in focaccia bread. For the most part, the bread we had in Italy was pretty subpar, but this focaccia was bomb.com. We spent the whole train ride to Venice eating this feast, while well-dressed Italians looked on, probably with judgment (but I prefer to think of as envy).
+
+Best things about Florence: the little sandwich/gelateria shops every 10 feet, the small cobblestone roads that are easy to get lost in, and Eataly.
+
+#### Venice (PM)
+
+<a href="@path_jenny/Venice02.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice02.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice03.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice03.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice04.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice04.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice05.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice05.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice06.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice06.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice07.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice07.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice08.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice08.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice09.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice09.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice10.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice10.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice11.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice11.JPG" alt=""></a>
+
+
+-
+dean:
+
+#### Florence (AM)
+
+<a href="@path_dean/Florence01.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Florence01.JPG" alt=""></a>
+
+<a href="@path_dean/Florence02.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Florence02.JPG" alt=""></a>
+
+<a href="@path_dean/Florence03.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Florence03.JPG" alt=""></a>
+
+<a href="@path_dean/Florence04.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Florence04.JPG" alt=""></a>
+
+<a href="@path_dean/Florence05.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Florence05.JPG" alt=""></a>
+
+#### Venice (PM)
+
+
+<a href="@path_dean/Venice01.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Venice01.JPG" alt=""></a>
+
+<a href="@path_dean/Venice02.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Venice02.JPG" alt=""></a>
+
+<a href="@path_dean/Venice03.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Venice03.JPG" alt=""></a>
+
+<a href="@path_dean/Venice04.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Venice04.JPG" alt=""></a>
+
+<a href="@path_dean/Venice05.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Venice05.JPG" alt=""></a>
+
+<a href="@path_dean/Venice06.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Venice06.JPG" alt=""></a>
+
+<a href="@path_dean/Venice07.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Venice07.JPG" alt=""></a>

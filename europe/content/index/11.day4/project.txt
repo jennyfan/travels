@@ -1,0 +1,61 @@
+title: Day 4
+-
+date: October 18, 2014
+-
+location: Venice &amp; Santorini
+-
+titlecolor: #fff
+-
+jenny: 
+#### Venice (AM)
+
+<a href="@path_jenny/Venice01.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice01.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice02.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice02.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice03.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice03.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice04.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice04.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice05.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice05.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice06.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice06.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice07.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice07.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice08.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice08.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice09.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice09.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice10.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice10.JPG" alt=""></a>
+
+<a href="@path_jenny/Venice11.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Venice11.JPG" alt=""></a>
+
+#### Santorini (PM)
+
+<a href="@path_jenny/Santorini01.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini01.JPG" alt=""></a>
+
+<a href="@path_jenny/Santorini02.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Santorini02.JPG" alt=""></a>
+
+-
+dean:
+#### Venice (AM)
+
+<a href="@path_dean/Venice01.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Venice01.JPG" alt=""></a>
+
+<a href="@path_dean/Venice02.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Venice02.JPG" alt=""></a>
+
+<a href="@path_dean/Venice03.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Venice03.JPG" alt=""></a>
+
+<a href="@path_dean/Venice04.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Venice04.JPG" alt=""></a>
+
+<a href="@path_dean/Venice05.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Venice05.JPG" alt=""></a>
+
+<a href="@path_dean/Venice06.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Venice06.JPG" alt=""></a>
+
+
+#### Santorini (PM)
+
+<a href="@path_dean/Santorini01.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Santorini01.JPG" alt=""></a>
+
+<a href="@path_dean/Santorini02.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Santorini02.JPG" alt=""></a>

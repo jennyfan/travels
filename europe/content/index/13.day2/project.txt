@@ -1,0 +1,56 @@
+title: Day 2
+-
+date: October 16, 2014
+-
+location: Milan &amp; Florence
+-
+titlecolor: #fff
+-
+jenny: 
+#### Milan (AM)
+
+<a href="@path_jenny/Milan01.JPG" data-lightbox="Jenny @location" data-title="All aboard the troll train"><img src="@path_jenny/Milan01.JPG" alt=""></a>
+
+<a href="@path_jenny/Milan02.JPG" data-lightbox="Jenny @location" data-title="Hauling our luggage through city streets"><img src="@path_jenny/Milan02.JPG" alt=""></a>
+
+<a href="@path_jenny/Milan03.JPG" data-lightbox="Jenny @location" data-title="Many mopeds and motorbikes on Milan's streets"><img src="@path_jenny/Milan03.JPG" alt=""></a>
+
+<a href="@path_jenny/Milan05.JPG" data-lightbox="Jenny @location" data-title="Fancy mall with all the Italian classics"><img src="@path_jenny/Milan05.JPG" alt=""></a>
+
+<a href="@path_jenny/Milan06.JPG" data-lightbox="Jenny @location" data-title="First blood drawn by Ten! One gelato down"><img src="@path_jenny/Milan06.JPG" alt=""></a>
+
+<a href="@path_jenny/Milan07.JPG" data-lightbox="Jenny @location" data-title="Dean's first gelato of many"><img src="@path_jenny/Milan07.JPG" alt=""></a>
+
+#### Florence (PM)
+
+<a href="@path_jenny/Florence01.JPG" data-lightbox="Jenny @location" data-title="Santa Croce cathedral"><img src="@path_jenny/Florence01.JPG" alt=""></a>
+
+<a href="@path_jenny/Florence02.JPG" data-lightbox="Jenny @location" data-title="Piazza at Santa Croce"><img src="@path_jenny/Florence02.JPG" alt=""></a>
+
+<a href="@path_jenny/Florence03.JPG" data-lightbox="Jenny @location" data-title="Another lovely piazza"><img src="@path_jenny/Florence03.JPG" alt=""></a>
+
+<a href="@path_jenny/Florence04.JPG" data-lightbox="Jenny @location" data-title="Strawberry and persimmon gelato at Perche, No?"><img src="@path_jenny/Florence04.JPG" alt=""></a>
+
+<a href="@path_jenny/Florence05.JPG" data-lightbox="Jenny @location" data-title="One of many statues in the piazza next to Uffizi"><img src="@path_jenny/Florence05.JPG" alt=""></a>
+
+<a href="@path_jenny/Florence06.JPG" data-lightbox="Jenny @location" data-title="Salami and proscuitto"><img src="@path_jenny/Florence06.JPG" alt=""></a>
+<a href="@path_jenny/Florence07.JPG" data-lightbox="Jenny @location" data-title="Strawberry rice and carbonara"><img src="@path_jenny/Florence07.JPG" alt=""></a>
+
+-
+dean:
+
+#### Milan (AM)
+
+<a href="@path_dean/Milan01.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Milan01.JPG" alt=""></a>
+
+<a href="@path_dean/Milan02.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Milan02.JPG" alt=""></a>
+
+#### Florence (PM)
+
+<a href="@path_dean/Florence01.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Florence01.JPG" alt=""></a>
+
+<a href="@path_dean/Florence02.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Florence02.JPG" alt=""></a>
+
+<a href="@path_dean/Florence03.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Florence03.JPG" alt=""></a>
+
+<a href="@path_dean/Florence04.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Florence04.JPG" alt=""></a>

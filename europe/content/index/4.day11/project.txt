@@ -1,0 +1,54 @@
+title: Day 11
+-
+date: October 25, 2014
+-
+location: Paris
+-
+titlecolor: #fff
+-
+jenny: 
+#### Paris
+
+<a href="@path_jenny/Paris01.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Paris01.JPG" alt=""></a>
+
+<a href="@path_jenny/Paris02.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Paris02.JPG" alt=""></a>
+
+<a href="@path_jenny/Paris03.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Paris03.JPG" alt=""></a>
+
+<a href="@path_jenny/Paris04.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Paris04.JPG" alt=""></a>
+
+<a href="@path_jenny/Paris05.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Paris05.JPG" alt=""></a>
+
+<a href="@path_jenny/Paris06.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Paris06.JPG" alt=""></a>
+
+<a href="@path_jenny/Paris07.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Paris07.JPG" alt=""></a>
+
+<a href="@path_jenny/Paris08.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Paris08.JPG" alt=""></a>
+
+<a href="@path_jenny/Paris09.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Paris09.JPG" alt=""></a>
+
+<a href="@path_jenny/Paris10.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Paris10.JPG" alt=""></a>
+
+<a href="@path_jenny/Paris11.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Paris11.JPG" alt=""></a>
+
+<a href="@path_jenny/Paris12.JPG" data-lightbox="Jenny @location" data-title=""><img src="@path_jenny/Paris12.JPG" alt=""></a>
+
+-
+dean:
+#### Paris
+
+<a href="@path_dean/Paris01.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Paris01.JPG" alt=""></a>
+
+<a href="@path_dean/Paris02.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Paris02.JPG" alt=""></a>
+
+<a href="@path_dean/Paris03.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Paris03.JPG" alt=""></a>
+
+<a href="@path_dean/Paris04.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Paris04.JPG" alt=""></a>
+
+<a href="@path_dean/Paris05.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Paris05.JPG" alt=""></a>
+
+<a href="@path_dean/Paris06.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Paris06.JPG" alt=""></a>
+
+<a href="@path_dean/Paris07.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Paris07.JPG" alt=""></a>
+
+<a href="@path_dean/Paris08.JPG" data-lightbox="Dean @location" data-title=""><img src="@path_dean/Paris08.JPG" alt=""></a>

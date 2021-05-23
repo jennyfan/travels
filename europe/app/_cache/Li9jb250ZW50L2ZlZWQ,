@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+
+  <title>Europe 2014's Europe 2014 Feed</title>
+  <subtitle>@profession</subtitle>
+  <link href="http://jennyfan.com/trips/euro-2014/?/feed/" hreflang="en" rel="self" type="application/atom+xml"/>
+  <link href="http://jennyfan.com/trips/euro-2014/" hreflang="en" rel="alternate" type="text/html"/>
+  
+  <updated>2015-03-16T09:01:14+11:00</updated>
+  <generator uri="http://staceyapp.com/" version="2.3.0">Stacey</generator>
+
+  <author>
+    <name>Europe 2014</name>
+    <uri>http://jennyfan.com/trips/euro-2014</uri>
+  </author>
+
+  <id>tag:jennyfan.com,2016:/?/feed/</id>
+  <rights>©2016 Europe 2014</rights>
+  
+
+</feed>
+<!-- Stacey(2.3.0): dfb8d3dfe1ee4faccca802053ca61c5a -->
